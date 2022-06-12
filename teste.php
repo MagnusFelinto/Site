@@ -40,4 +40,4 @@ class Main
         return $this;
     }
 }
-(new main())->teste("Nomeeee");
+(new main())->teste("Nomee");
